@@ -5,7 +5,9 @@
 useage: Alt + Shift + (Click + Drag or directional keys)
 
 #####autoclose-html
-once you put <html-element> it auto closed it with </html-element>
+````html
+<html-element> </html-element>
+````
 
 #####auto-indent
 useage: Cmd + Shift + I
