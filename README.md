@@ -5,20 +5,12 @@
 useage: Alt + Shift + (Click + Drag or directional keys)
 
 #####autoclose-html
-once you put 
-````html
-<html-element> 
-````
-it auto closed it with 
-````html
-</html-element> 
-````
+once you put <html-element> it auto closed it with </html-element>
+
 #####auto-indent
 useage: Cmd + Shift + I
 
 #Useful for react
-#####react
-
 #####react
 
 #####react-es6-snippets
