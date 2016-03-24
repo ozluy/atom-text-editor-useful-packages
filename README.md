@@ -10,7 +10,7 @@ once you put <html-element> it auto closed it with </html-element>
 #####auto-indent
 useage: Cmd + Shift + I
 
-#####Useful for react
+#Useful for react
 #####react
 
 #####react
