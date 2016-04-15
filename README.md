@@ -18,3 +18,6 @@ useage: Cmd + Shift + I
 #####react-es6-snippets
 
 #####language-babel
+
+#####css-to-inline
+Lets you convert css to react inline css 
